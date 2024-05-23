@@ -15,12 +15,12 @@ The primary objective of this study was to optimize pathfinding within dynamic g
 - **Key Modules:** `heapq` (Binary Heap), `math`
 - **Domain:** Graph Theory, Network Optimization
 
-## How to Execute
-To view the output of the network analysis:
-1. Ensure you have Python installed.
-2. Run the following command in your terminal:
-  ```bash
-   python social_network_analysis.py
+## 🖥️ Execution (Bash)
+Execute the analysis script within a standard Python 3 environment:
+
+```bash
+# Run the social network routing analysis
+$ python social_network_analysis.py
 ```
 ## Author
 **Peyali Chakraborty**
